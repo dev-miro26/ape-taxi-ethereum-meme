@@ -1030,7 +1030,7 @@ audio {
   }
 }
 .str._revers .str__row-marque {
-  animation: roww 30s linear infinite;
+  animation: row 30s linear infinite;
 }
 
 .str__row-marque {
