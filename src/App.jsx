@@ -2,6 +2,7 @@ import FlowBand from "./components/flowBand";
 import Footer from "./components/footer";
 import Home from "./pages/home";
 import Landing from "./pages/landing";
+import Meme from "./pages/meme";
 import Taxi from "./pages/taxi";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Home />
           <FlowBand />
           <Taxi />
+          <Meme />
         </main>
         <Footer />
       </div>
