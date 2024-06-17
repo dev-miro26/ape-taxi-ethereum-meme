@@ -1,9 +1,10 @@
 import React from "react";
 
-const Landing = () => {
+const Landing = ({ playPause }) => {
   const [disableCss, setDisableCss] = React.useState("null");
   const goToMain = () => {
     setDisableCss("_hide");
+    playPause();
   };
   return (
     <div className={`prewiiew ${disableCss}`}>
