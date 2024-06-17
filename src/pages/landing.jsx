@@ -11,22 +11,22 @@ const Landing = () => {
         <p>
           <span>Should I take you to 10M?</span>
         </p>
-        <img src="/assets/images/tfot.png" alt="image" />
+        <img src="/assets/images/tfot.png" alt="tfot" />
       </div>
       <div className="prewiiew__btn" onClick={goToMain}>
         <button>YES, APE $TAXI</button>
       </div>
       <div className="prewiiew__fon">
-        <img src="/assets/images/fon.png" alt="image" />
+        <img src="/assets/images/fon.png" alt="fon" />
       </div>
       <div className="prewiiew__peni">
-        <img src="/assets/images/peni.png" alt="image" />
+        <img src="/assets/images/peni.png" alt="peni" />
       </div>
       <div className="prewiiew__steklo">
-        <img src="/assets/images/steklo.png" alt="image" />
+        <img src="/assets/images/steklo.png" alt="steklo" />
       </div>
       <div className="prewiiew__car">
-        <img src="/assets/images/car.png" alt="image" />
+        <img src="/assets/images/car.png" alt="car" />
       </div>
     </div>
   );
