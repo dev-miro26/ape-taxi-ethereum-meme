@@ -2,104 +2,104 @@ import React from "react";
 
 const Meme = () => {
   return (
-    <div class="memes">
-      <div class="memes__img">
-        <img src="/assets/images/dor.png" alt />
+    <div className="memes">
+      <div className="memes__img">
+        <img src="/assets/images/dor.png" alt="image" />
       </div>
-      <div class="memes__line">
-        <div class="line">
-          <div class="str">
-            <div class="str__row-marque">
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+      <div className="memes__line">
+        <div className="line">
+          <div className="str">
+            <div className="str__row-marque">
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
             </div>
-            <div class="str__row-marque">
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+            <div className="str__row-marque">
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
-              <div class="str__item">
-                <img src="/assets/images/tax.png" alt />
+              <div className="str__item">
+                <img src="/assets/images/tax.png" alt="image" />
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="memes__container">
-        <div class="memes__item">
-          <img src="/assets/images/m1.png" alt />
+      <div className="memes__container">
+        <div className="memes__item">
+          <img src="/assets/images/m1.png" alt="image" />
         </div>
-        <div class="memes__item">
-          <img src="/assets/images/m2.png" alt />
+        <div className="memes__item">
+          <img src="/assets/images/m2.png" alt="image" />
         </div>
-        <div class="memes__item">
-          <img src="/assets/images/m3.png" alt />
+        <div className="memes__item">
+          <img src="/assets/images/m3.png" alt="image" />
         </div>
-        <div class="memes__item">
-          <img src="/assets/images/m4.png" alt />
+        <div className="memes__item">
+          <img src="/assets/images/m4.png" alt="image" />
         </div>
-        <div class="memes__item">
-          <img src="/assets/images/m5.png" alt />
+        <div className="memes__item">
+          <img src="/assets/images/m5.png" alt="image" />
         </div>
-        <div class="memes__item">
-          <img src="/assets/images/m6.png" alt />
+        <div className="memes__item">
+          <img src="/assets/images/m6.png" alt="image" />
         </div>
       </div>
     </div>

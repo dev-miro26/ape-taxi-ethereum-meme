@@ -6,27 +6,27 @@ const Landing = () => {
     setDisableCss("_hide");
   };
   return (
-    <div class={`prewiiew ${disableCss}`}>
-      <div class="prewiiew__txt">
+    <div className={`prewiiew ${disableCss}`}>
+      <div className="prewiiew__txt">
         <p>
           <span>Should I take you to 10M?</span>
         </p>
-        <img src="/assets/images/tfot.png" alt />
+        <img src="/assets/images/tfot.png" alt="image" />
       </div>
-      <div class="prewiiew__btn" onClick={goToMain}>
+      <div className="prewiiew__btn" onClick={goToMain}>
         <button>YES, APE $TAXI</button>
       </div>
-      <div class="prewiiew__fon">
-        <img src="/assets/images/fon.png" alt />
+      <div className="prewiiew__fon">
+        <img src="/assets/images/fon.png" alt="image" />
       </div>
-      <div class="prewiiew__peni">
-        <img src="/assets/images/peni.png" alt />
+      <div className="prewiiew__peni">
+        <img src="/assets/images/peni.png" alt="image" />
       </div>
-      <div class="prewiiew__steklo">
-        <img src="/assets/images/steklo.png" alt />
+      <div className="prewiiew__steklo">
+        <img src="/assets/images/steklo.png" alt="image" />
       </div>
-      <div class="prewiiew__car">
-        <img src="/assets/images/car.png" alt />
+      <div className="prewiiew__car">
+        <img src="/assets/images/car.png" alt="image" />
       </div>
     </div>
   );
